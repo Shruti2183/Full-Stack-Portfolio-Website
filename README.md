@@ -10,19 +10,16 @@ This is my personal portfolio website built with the MERN stack. It showcases my
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Email Service**: Nodemailer (via backend contact form)
-- **Deployment**:
-  - Frontend: Netlify
-  - Backend: Render/Heroku
 
 ---
 
 ## 📁 Folder Structure
 
 portfolio-website/
-├── client/ # React frontend
-├── backend/ # Node.js backend
-├── .gitignore
-├── README.md
+- client/ # React frontend
+- backend/ # Node.js backend
+- .gitignore
+- README.md
 
 ## 🧑‍💻 Features
 
