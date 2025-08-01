@@ -1,0 +1,37 @@
+# Node modules (both frontend and backend)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build files (React production build)
+client/build/
+
+# Environment variables
+.env
+client/.env
+server/.env
+
+# Log files
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# MongoDB-related files (if you're using local mongo tools)
+dump/
+*.lock
+
+# Test coverage or runtime
+coverage/
+*.pid
+*.seed
+*.pid.lock
